@@ -54,7 +54,7 @@ coursera:
       date: November 02, 2013
 
 #List of interesting Github repo/projects to include - optional
-#github:
+github:
 # - robhinds/learning-neural-networks
 
 #Stackoverflow flair is optional
