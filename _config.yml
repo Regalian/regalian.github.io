@@ -32,7 +32,7 @@ roles:
    start: 1987
    end: 2011
    employer: Horticulture Research International
-   description: 
+   description:
 #Education is required
 education:
  - level: Bachelor of Science (B.Sc. Hons.)
@@ -54,7 +54,7 @@ coursera:
       date: November 02, 2013
 
 #List of interesting Github repo/projects to include - optional
-github:
+#github:
 # - robhinds/learning-neural-networks
 
 #Stackoverflow flair is optional
